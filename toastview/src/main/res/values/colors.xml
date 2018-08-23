@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- COLOR -->
+    <color name="text_black">#000000</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_red">#FD5B44</color>
+    <color name="text_gray">#999999</color>
+    <color name="text_green">#51b23f</color>
+    <color name="text_green2">#18986d</color>
+    <color name="text_yellow">#FF8800</color>
+    <color name="text_lightblue">#1FADC5</color>
+    <color name="line_gray">#d9d9d9</color>
+    <color name="line_gray2">#f0f0f0</color>
+    <color name="bg_gray">#f4f4f4</color>
+    <color name="bg_red2">#fefaf7</color>
+    <color name="bg_warn">#f4f4f4</color>
+    <color name="statebar">#cc0000</color>
+    <color name="red">#cb0000</color>
+    <color name="bg_gray_lin">#EEEEEE</color>
+    <color name="toast_gray">#DBDBDB</color>
+
+
+
+</resources>
