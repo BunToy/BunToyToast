@@ -7,7 +7,7 @@ Toast developed by BunToy, can be plain text, or with pictures, can set backgrou
    
 # Shotscreen
 
-   ![ABC](https://github.com/crybobo/BunToyToast/blob/master/shotscreen/screenshot.png)
+   ![ABC](https://github.com/crybobo/BunToyToast/blob/master/shotscreen/screenshot2.png)
 
   
  
